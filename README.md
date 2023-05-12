@@ -1,1 +1,1 @@
-Initialized git repository
+Created .gitignore file
