@@ -1,1 +1,1 @@
-Installed necessary packages
+Created main.js file
