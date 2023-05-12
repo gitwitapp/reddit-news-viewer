@@ -1,1 +1,1 @@
-Created .gitignore file
+Installed necessary packages
